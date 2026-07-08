@@ -1,0 +1,36 @@
+2026-07-08 17:10:43 - root - INFO - ============================================================
+2026-07-08 17:10:43 - root - INFO - EventPrep logging initialized
+2026-07-08 17:10:43 - root - INFO - Log file: /Users/kyle/Library/Application Support/EventPrep/logs/eventprep.log
+2026-07-08 17:10:43 - root - INFO - ============================================================
+2026-07-08 17:10:43 - src.__main__ - INFO - Starting EventPrep application
+2026-07-08 17:12:33 - src.gui - INFO - ============================================================
+2026-07-08 17:12:33 - src.gui - INFO - START PREP OPERATION
+2026-07-08 17:12:33 - src.gui - INFO - ============================================================
+2026-07-08 17:12:33 - src.gui - INFO - Event name: 'Celebration of Life' (empty=False)
+2026-07-08 17:12:33 - src.gui - INFO - Selected 1 top-level crate(s)
+2026-07-08 17:12:33 - src.gui - INFO -   Crate 1: '5.17.26 Celebration of Life' - 131 tracks, 3 children
+2026-07-08 17:12:42 - src.gui - INFO - Folder 'Desktop': confirmed subfolder = 'Celebration of Life'
+2026-07-08 17:12:42 - src.prep - INFO - ============================================================
+2026-07-08 17:12:42 - src.prep - INFO - PREPARE_TRANSFERS
+2026-07-08 17:12:42 - src.prep - INFO - ============================================================
+2026-07-08 17:12:42 - src.prep - INFO - Tree: 1 root(s), 66 total track(s)
+2026-07-08 17:12:42 - src.prep - INFO -   Root 1: '5.17.26 Celebration of Life' - 131 tracks
+2026-07-08 17:12:42 - src.prep - INFO - Destinations: 1
+2026-07-08 17:12:42 - src.prep - INFO -   Dest 1: Desktop (available=True)
+2026-07-08 17:12:42 - src.prep - INFO - Starting transfer to: Desktop
+2026-07-08 17:12:43 - src.prep - INFO - Completed Desktop: copied=131, skipped=0, errors=0
+2026-07-08 17:12:43 - src.prep - INFO - TOTAL: copied=131, skipped=0, errors=0
+2026-07-08 17:12:43 - src.prep - INFO - ============================================================
+2026-07-08 17:12:59 - src.gui - INFO - Apple Music 'Apple Music': showing preview dialog
+2026-07-08 17:13:45 - src.gui - INFO - User confirmed mappings for 4 crate(s)
+2026-07-08 17:13:45 - src.prep - INFO - ============================================================
+2026-07-08 17:13:45 - src.prep - INFO - PREPARE_TRANSFERS
+2026-07-08 17:13:45 - src.prep - INFO - ============================================================
+2026-07-08 17:13:45 - src.prep - INFO - Tree: 1 root(s), 66 total track(s)
+2026-07-08 17:13:45 - src.prep - INFO -   Root 1: '5.17.26 Celebration of Life' - 131 tracks
+2026-07-08 17:13:45 - src.prep - INFO - Destinations: 1
+2026-07-08 17:13:45 - src.prep - INFO -   Dest 1: Apple Music (available=True)
+2026-07-08 17:13:45 - src.prep - INFO - Starting transfer to: Apple Music
+2026-07-08 17:13:51 - src.prep - INFO - Completed Apple Music: copied=65, skipped=0, errors=0
+2026-07-08 17:13:51 - src.prep - INFO - TOTAL: copied=65, skipped=0, errors=0
+2026-07-08 17:13:51 - src.prep - INFO - ============================================================
